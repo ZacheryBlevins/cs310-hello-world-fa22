@@ -12,10 +12,10 @@ public class Class1 {
         // v2.0
     }
     private void f3() {
-        // v3.0
+        // v3.1 (revised for hotfix)
     }
-    private void f3() {
-        // v3.0
+    private void f4() {
+        // v4.0
     }
 
 }
